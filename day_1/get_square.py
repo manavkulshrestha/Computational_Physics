@@ -1,1 +1,0 @@
-print(f'x**2 = {float(input("x? "))**2}')

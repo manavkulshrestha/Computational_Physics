@@ -1,1 +1,0 @@
-print(f'{"" if int(input("year? "))%4 == 0 else "not a "}leap year')
